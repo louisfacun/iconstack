@@ -1,0 +1,13 @@
+{
+  "name": "@iconstack/react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "icons/index.d.ts",
+  "files": [
+    "icons",
+    "icons/*.d.ts"
+  ],
+  "peerDependencies": {
+    "react": "^17.0.2"
+  }
+}
